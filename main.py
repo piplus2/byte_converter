@@ -127,6 +127,8 @@ class MainWindow(QMainWindow):
         unitLayout.addWidget(gigabyteButton)
         unitLayout.addWidget(terabyteButton)
 
+        bitButton.setChecked(True)  # Set default unit to bit
+
         self.unitWidget.setLayout(unitLayout)
 
     def byte_converter(self, bytes):
