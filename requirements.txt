@@ -1,0 +1,15 @@
+black @ file:///D:/bld/black-recipe_1708248344300/work
+click @ file:///D:/bld/click_1692312014553/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+mypy-extensions @ file:///home/conda/feedstock_root/build_artifacts/mypy_extensions_1675543315189/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1710075952259/work
+pathspec @ file:///home/conda/feedstock_root/build_artifacts/pathspec_1702249949303/work
+platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1706713388748/work
+ply==3.11
+PyQt5==5.15.9
+PyQt5-sip @ file:///D:/bld/pyqt-split_1695418044683/work/pyqt_sip
+setuptools==69.2.0
+sip @ file:///D:/bld/sip_1697300573642/work
+toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
+tomli @ file:///home/conda/feedstock_root/build_artifacts/tomli_1644342247877/work
+wheel==0.42.0
