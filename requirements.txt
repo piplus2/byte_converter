@@ -8,7 +8,7 @@ platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_17
 ply==3.11
 PyQt5==5.15.9
 PyQt5-sip @ file:///D:/bld/pyqt-split_1695418044683/work/pyqt_sip
-setuptools==69.2.0
+setuptools~> 70.0.0
 sip @ file:///D:/bld/sip_1697300573642/work
 toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
 tomli @ file:///home/conda/feedstock_root/build_artifacts/tomli_1644342247877/work
